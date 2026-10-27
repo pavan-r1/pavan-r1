@@ -1,5 +1,30 @@
-# 💫 About Me:
- I'm currently working on AI/ML projects, including Bharat Krishi Intelligence Grid (BKIG) and SPRINGVYRA.<br><br>🤝 I'm looking to collaborate on AI/ML, Data Science, and full-stack development projects.<br><br>🛠️ I'm looking for help with advanced machine learning, LLM applications, and MLOps.<br><br>🌱 I'm currently learning AI agents, prompt engineering, model deployment, and scalable application development.<br><br>💬 Ask me about Python, SQL, Machine Learning, React, FastAPI, MongoDB, and Data Analytics.<br><br>⚡ Fun fact: I love turning real-world problems into practical, data-driven technology solutions.
+Pavan R | Building Intelligence into Reality
+
+I'm a Data Science engineering student passionate about turning complex problems into intelligent, practical solutions.
+
+I don't just want to build models that make predictions. I want to build systems that solve real problems, help people, and make technology useful.
+
+What I'm Building
+
+BKIG — Exploring AI-powered agricultural intelligence and insurance fraud detection.
+
+SPRINGVYRA — Combining geospatial intelligence and AI to support spring-recharge planning.
+
+Machine Learning Systems — Building predictive applications and exploring the journey from model training to deployment.
+
+What Drives Me
+
+I enjoy working at the intersection of Artificial Intelligence, Data Science, and Software Engineering. From designing APIs to experimenting with machine learning models, I like understanding how the pieces fit together to create something meaningful.
+
+Currently Exploring
+
+AI agents, LLM-powered applications, advanced machine learning, and production-ready AI systems.
+
+Let's Build Something Interesting
+
+I'm open to collaborating on challenging AI/ML projects, innovative applications, and ideas that turn into real-world solutions.
+
+My philosophy: Don't just learn the technology. Build something that gives it a purpose.
 
 
 ## Socials:
